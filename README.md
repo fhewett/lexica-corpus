@@ -7,7 +7,7 @@ The corpus consists of texts from three Wiki-based lexica in German language: [M
 The articles in the Wikis are created by volunteers and can be written, discussed, and improved upon collaboratively. 
 Klexikon is aimed specifically at children aged between 6 and 12 and MiniKlexikon is designed for children who are beginner readers, and is therefore an even simpler version of the Klexikon. We make the assumption that the three different sub-corpora represent three different levels of conceptual complexity due to the target groups they are written for: younger children, children and adults. As Wikipedia articles can be extremely long, in comparison to the other two lexica, only the introduction or abstract was taken for this corpus.
 
-This repository contains the corpora from the original study (
+This repository contains the corpora from the original study (295 texts per sub-corpus in the `orig_files` folder), extended versions with ca. 1000 texts (as of August 2021) per sub-corpus (the `miniklexi_corpus.txt`, `klexi_corpus.txt`, `wiki_corpus.txt` files in this folder) and a script to update the extended version as new articles are added to the Klexikon and MiniKlexikon.
 
 ## How to use the script
 
@@ -35,12 +35,9 @@ Freya Hewett & Christopher Richter
 
 ## License
 
-https://creativecommons.org/licenses/by-sa/4.0/
-"Der Link in der URL führt dann auch zu jener Version. So kann der spätere Weiterverwender nachvollziehen, auf welche Artikelversion man sich bezieht (die Artikel können sich ja ändern). Hinzu fügt man die verlinkte Angabe "CC-BY-SA" für die Lizenz. "
-Klexikon and MiniKlexikon: CC BY-SA 4.0
+The Klexikon and MiniKlexikon files are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-https://creativecommons.org/licenses/by-sa/3.0/
-Wikipedia: CC BY-SA 3.0
+The Wikipedia files are licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## Citation
 
