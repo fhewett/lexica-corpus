@@ -13,6 +13,14 @@ This repository contains the corpora from the original study (295 texts per sub-
 
 The sub-corpora feature a symbol for "end of paragraph": MiniKlexikon and Klexikon `<eop>`and in Wikipedia just `*`
 
+### Statistics for the original (smaller) corpora
+
+Sub-corpus | Avg. article length | Avg. sentence length
+---------- | ------------------- | --------------------
+MiniKlexikon | 134.86 | 9.57
+Klexikon | 305.45 | 13.29
+Wikipedia | 169.89 | 18.41
+
 ## How to use the script
 
 Run the script `build.sh` to update the corpus, using the default options (or if you use Conda then use `build_conda.sh`)
