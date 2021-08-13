@@ -9,9 +9,13 @@ Klexikon is aimed specifically at children aged between 6 and 12 and MiniKlexiko
 
 This repository contains the corpora from the original study (295 texts per sub-corpus in the `orig_files` folder), extended versions with ca. 1000 texts (as of August 2021) per sub-corpus (the `miniklexi_corpus.txt`, `klexi_corpus.txt`, `wiki_corpus.txt` files in this folder) and a script to update the extended version as new articles are added to the Klexikon and MiniKlexikon.
 
+### Note on the format
+
+The sub-corpora feature a symbol for "end of paragraph": MiniKlexikon and Klexikon `<eop>`and in Wikipedia just `*`
+
 ## How to use the script
 
-Run the script `build.sh` to update the corpus, using the default options
+Run the script `build.sh` to update the corpus, using the default options (or if you use Conda then use `build_conda.sh`)
 
 Alternatively, create your own environment using the requirements and use the following options:
 
