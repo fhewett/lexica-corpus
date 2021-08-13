@@ -54,3 +54,5 @@ The Wikipedia files are licensed under [CC BY-SA 3.0](https://creativecommons.or
 ## Citation
 
 tbc
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5196030.svg)](https://doi.org/10.5281/zenodo.5196030)
