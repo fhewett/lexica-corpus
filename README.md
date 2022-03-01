@@ -2,7 +2,9 @@
 Files &amp; script for lexica corpus for German text simplification
 
 **Updates**:
+
 March 2022: total of 3270 files (1090 at each level)
+
 August 2021: total of 2934 files
 
 ## About
