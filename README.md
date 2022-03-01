@@ -1,13 +1,17 @@
 # lexica-corpus
 Files &amp; script for lexica corpus for German text simplification
 
+**Updates**:
+March 2022: total of 3270 files (1090 at each level)
+August 2021: total of 2934 files
+
 ## About
 
 The corpus consists of texts from three Wiki-based lexica in German language: [MiniKlexikon](https://miniklexikon.zum.de/wiki/Hauptseite), [Klexikon](https://klexikon.zum.de/) and [Wikipedia](https://de.wikipedia.org/wiki/Wikipedia:Hauptseite). 
 The articles in the Wikis are created by volunteers and can be written, discussed, and improved upon collaboratively. 
 Klexikon is aimed specifically at children aged between 6 and 12 and MiniKlexikon is designed for children who are beginner readers, and is therefore an even simpler version of the Klexikon. We make the assumption that the three different sub-corpora represent three different levels of conceptual complexity due to the target groups they are written for: younger children, children and adults. As Wikipedia articles can be extremely long, in comparison to the other two lexica, only the introduction or abstract was taken for this corpus.
 
-This repository contains the corpora from the original study (295 texts per sub-corpus in the `orig_files` folder), extended versions with ca. 1000 texts (as of August 2021) per sub-corpus (the `miniklexi_corpus.txt`, `klexi_corpus.txt`, `wiki_corpus.txt` files in this folder: **updated August 2021, current size 2934 total texts**) and a script to update the extended version as new articles are added to the Klexikon and MiniKlexikon.
+This repository contains the corpora from the original study (295 texts per sub-corpus in the `orig_files` folder), extended versions with ca. 1000 texts (as of August 2021) per sub-corpus (the `miniklexi_corpus.txt`, `klexi_corpus.txt`, `wiki_corpus.txt` files in this folder) and a script to update the extended version as new articles are added to the Klexikon and MiniKlexikon.
 
 ### Note on the format
 
