@@ -61,4 +61,6 @@ The Wikipedia files are licensed under [CC BY-SA 3.0](https://creativecommons.or
 
 Hewett, F., & Stede, M. (2021). [Automatically evaluating the conceptual complexity of German texts](https://aclanthology.org/2021.konvens-1.23.pdf). *Proceedings of the 17th Conference on Natural Language Processing (KONVENS 2021)*, 228–234.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5196030.svg)](https://doi.org/10.5281/zenodo.5196030)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6319803.svg)](https://doi.org/10.5281/zenodo.6319803)
+
+
